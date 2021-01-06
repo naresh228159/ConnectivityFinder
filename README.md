@@ -21,7 +21,7 @@ There could be a direct connection or series of roads connection (intermediate c
 Provided Origin and Destination cities, this service identifies whether they are connected. 
 
 ### Technologies
-Spring Boot v2.x, Spring REST, Java 8, Junit, Spring Boot test, Maven, Swagger
+Spring Boot, Java 8, Swagger, Spring Boot test, Maven, Junit
 
 ### Rest API
 GET /connected?origin=<origin-city>&destination=<destination-city>
