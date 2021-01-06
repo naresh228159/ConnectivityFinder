@@ -17,7 +17,7 @@ import springfox.documentation.service.Contact;
 @Configuration
 public class SwaggerConfig {
 	
-	private static final String API_DESC = "Given a text file with comma separated component pairs, this API informs whether "
+	private static final String API_DESC = "Given a text file with delimited component pairs, this API informs whether "
 			+ "two components are connected. Components can be Cities , States or anything that can be represented as a Graph"
 			+ "data structure";
 
