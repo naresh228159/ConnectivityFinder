@@ -1,6 +1,5 @@
 # ConnectivityFinder
  
-# Spring-boot-Cities-Connection
 Given a file with delimited component pairs, this API informs whether two components are connected(directly or transitively). Components can be Cities , States or anything that can be represented as a Graph data structure.
 
 For this use case , File contains a list of city pairs (one pair per line, comma separated), which indicates that there’s a road between those cities.
